@@ -1,0 +1,18 @@
+/* 
+  Strings.strings
+  intercorpApp
+
+  Created by Fabrizio Sposetti on 05/07/2019.
+  Copyright © 2019 Fabrizio Sposetti. All rights reserved.
+*/
+
+"CamposVacios" = "Los campos no pueden quedar vacíos";
+"CreacionCliente" = "Creación de cliente";
+"UsuarioGuardadoCorrectamente" = "Se guardó correctamente el usuario";
+"ErrorAlGuardarUsuario" = "Error al intentar guardar el usuario";
+"Enviar" = "Enviar";
+"Nombre" = "Nombre";
+"Apellido" = "Apellido";
+"Edad" = "Edad";
+"FechaNacimiento" = "FechaNacimiento";
+"Login" = "Login";
